@@ -1,0 +1,1 @@
+Learning To Hash in Rust is quite intriguing!
